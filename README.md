@@ -1,5 +1,7 @@
 dockerConnector for DomeOS
 ===
+## arm64v8
+GOOS=linux GOARCH=arm64 go build -o dockerConnector.arm64v8
 
 update 2015-06-01: 
 
